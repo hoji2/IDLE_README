@@ -107,6 +107,9 @@ feeds에 아무것도 등록되어있지 않으면 위와 같은 사이드바를
 - vuex (3.0.1)
 
 
+### 참고사항
+
+- 프로젝트 코드는 보안정책에 따라 private하게 관리
 
 ### Customize configuration
 
